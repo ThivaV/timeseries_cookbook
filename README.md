@@ -1,3 +1,3 @@
-# Time Series cookbook
+# Time Series Cookbook
 
 Time Series cookbook

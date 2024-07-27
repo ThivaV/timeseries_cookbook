@@ -1,2 +1,7 @@
 ipykernel
 ipywidgets
+tqdm
+numpy
+pandas_datareader
+yfinance
+matplotlib
