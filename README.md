@@ -1,2 +1,3 @@
-# timeseries_cookbook
+# Time Series cookbook
+
 Time Series cookbook
