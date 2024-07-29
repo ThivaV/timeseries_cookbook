@@ -1,3 +1,7 @@
+tqdm
 numpy
 pandas
-pandas-datareader
+pandas_datareader
+yfinance
+matplotlib
+statsmodels

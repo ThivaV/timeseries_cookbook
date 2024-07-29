@@ -2,6 +2,8 @@ ipykernel
 ipywidgets
 tqdm
 numpy
+pandas
 pandas_datareader
 yfinance
 matplotlib
+statsmodels
