@@ -1,9 +1,10 @@
 ipykernel
 ipywidgets
 tqdm
-numpy
+numpy==1.23
 pandas
 pandas_datareader
 yfinance
 matplotlib
 statsmodels
+prophet
