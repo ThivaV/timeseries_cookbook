@@ -1,7 +1,5 @@
-numpy==1.23
+numpy
 pandas
 pandas_datareader
 yfinance
 matplotlib
-statsmodels
-prophet
