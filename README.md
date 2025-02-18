@@ -14,3 +14,4 @@
 ___
 - References:
     - [Time Series](https://www.youtube.com/playlist?list=PLZoTAELRMXVNty3jyJkYXuyQY3lMSpr3b)
+    - [IBM: Specialized Models: Time Series and Survival Analysis](https://www.coursera.org/learn/time-series-survival-analysis)
